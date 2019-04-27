@@ -6,6 +6,6 @@ public class App {
 		 // TEST
 	 }
 	public String Sample() {
-		return "sample TEST";
+		return "sample TEST dev";
 	}
 }
